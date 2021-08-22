@@ -1,0 +1,8 @@
+snake.c:21:6:GetDist	24	static
+snake.c:29:7:get_user_input	40	static
+snake.c:52:7:insert_snake	32	static,ignoring_inline_asm
+snake.c:66:7:insert_apple	24	static,ignoring_inline_asm
+snake.c:76:7:check_for_colison_x	4	static
+snake.c:83:7:check_for_colison_y	4	static
+snake.c:89:7:check_for_end	16	static
+snake.c:97:7:snake_follow	16	static
